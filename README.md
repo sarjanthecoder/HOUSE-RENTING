@@ -5,6 +5,7 @@ A modern, full-stack web application for managing house rentals in Tamil Nadu, I
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Platform](https://img.shields.io/badge/platform-web-blue.svg)
 
+
 ## ✨ Features
 
 ### 👤 For Seekers
