@@ -254,5 +254,8 @@ Developed with ❤️ using modern web technologies
 Contributions, issues, and feature requests are welcome!
 
 ---
+stay happpy  and healthy
+
+
 
 Made with 💙 for connecting home seekers and owners across Tamil Nadu! 🏠✨
